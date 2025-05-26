@@ -1,0 +1,20 @@
+[global]
+follow = keyboard
+origin = bottom-right
+
+frame_color = "#7199ee"
+separator_color= frame
+highlight = "#7199ee"
+
+[urgency_low]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+
+[urgency_normal]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+
+[urgency_critical]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+frame_color = "#f6955b"
