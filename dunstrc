@@ -1,6 +1,6 @@
 [global]
 follow = keyboard
-origin = bottom-right
+origin = bottom-center
 
 frame_color = "#7199ee"
 separator_color= frame
